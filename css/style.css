@@ -1,0 +1,9 @@
+td img{
+    width: 50%;
+}
+.delete-user, .edit-user, .send-update{
+    cursor: pointer;
+}
+.none{
+    display: none;
+}
